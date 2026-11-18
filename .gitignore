@@ -1,4 +1,5 @@
 /build/
+/result/
 /.config/
 /.gcs_entries
 *.tar
